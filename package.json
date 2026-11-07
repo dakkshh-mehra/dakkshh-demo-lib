@@ -1,0 +1,12 @@
+{
+  "name": "dakkshh-demo-lib",
+  "version": "1.0.0",
+  "description": "Tiny demo library for the SourceKind hackathon demo",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakkshh-mehra/dakkshh-demo-lib.git"
+  },
+  "homepage": "https://github.com/dakkshh-mehra/dakkshh-demo-lib"
+}
